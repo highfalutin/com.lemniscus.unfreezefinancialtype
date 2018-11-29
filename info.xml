@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="com.lemniscus.unfreezefinancialtype" type="module">
+  <file>unfreezefinancialtype</file>
+  <name>Unfreeze Financial Type</name>
+  <description>Contrary to core Civi behavior, allow editing the financial type on the contribution edit screen, even if the contribution is related to an event or membership.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Noah Miller</author>
+    <email>nm@lemnisc.us</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/highfalutin/com.lemniscus.unfreezefinancialtype</url>
+    <url desc="Documentation">https://github.com/highfalutin/com.lemniscus.unfreezefinancialtype/wiki</url>
+    <url desc="Support">https://github.com/highfalutin/com.lemniscus.unfreezefinancialtype/issues</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-11-06</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>5.5</ver>
+  </compatibility>
+  <comments>This module has been approved for production use by the organization that sponsored it.</comments>
+  <civix>
+    <namespace>CRM/Unfreezefinancialtype</namespace>
+  </civix>
+</extension>
